@@ -1,6 +1,6 @@
 module.exports = {
   dest: "docs/pages",
-  base: "/pages/",
+  base: "/gd-vuepress/pages/",
   themeConfig: {
     lastUpdated: "Last Updated",
     // 平滑滚动
