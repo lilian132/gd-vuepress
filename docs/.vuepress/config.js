@@ -1,5 +1,6 @@
 module.exports = {
-  dest: "pages",
+  dest: "docs/pages",
+  base: "/pages/",
   themeConfig: {
     lastUpdated: "Last Updated",
     // 平滑滚动
