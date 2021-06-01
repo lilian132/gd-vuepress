@@ -20,6 +20,18 @@ module.exports = {
         children: ["/start/installation", "/start/quickstart"],
       },
       {
+        title: "组件",
+        sidebarDepth: 0,
+        children: [
+          "/components/custom-dialog",
+          "/components/gd-popup-selector",
+          "/components/gd-popup-picker",
+          "/components/gd-popup-time",
+          "/components/gd-popup-daterange",
+          "/components/gd-digit-keyboard",
+        ],
+      },
+      {
         title: "参与组件库开发",
         sidebarDepth: 0,
         children: ["/dev/quickstart"],

@@ -72,8 +72,8 @@ export default {
   font-weight: 400;
   color: #ffffff;
   position: relative;
-  width: calc(100% + 80px);
-  left: -40px;
+  width: calc(100% + 180px);
+  left: -90px;
   .bottom-sign {
     position: absolute;
     width: 381px;
