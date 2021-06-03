@@ -25,8 +25,4 @@
 ```html
   <gd-popup-timerange ... />
 ```
-
-请阅读下一节：[快速上手](/start/quickstart)。
-
-
 <FooterGd/>

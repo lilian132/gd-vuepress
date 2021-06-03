@@ -3,7 +3,7 @@
 底部弹窗选择时间 <br/>
 
 <div style="display:inline-block">
-<img src="./images/popup-time.png" style="width:320px;float:left" />
+<img src="./images/time.gif" style="width:320px;float:left" />
 <div style="float:left; margin:160px 0 0 100px">
 联系李凌云加体验权限
 <br />

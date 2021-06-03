@@ -29,6 +29,7 @@ module.exports = {
           "/components/gd-popup-time",
           "/components/gd-popup-daterange",
           "/components/gd-digit-keyboard",
+          "/components/gd-countdown",
         ],
       },
       {

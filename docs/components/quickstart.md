@@ -21,12 +21,10 @@
   }
 ```
 
-* 2.2 使用组件
+* 2.2 1使用组件
 ```html
   <gd-popup-timerange ... />
 ```
-
-请阅读下一节：[快速上手](/start/quickstart)。
 
 
 <FooterGd/>

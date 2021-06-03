@@ -4,7 +4,7 @@
 （2）带右侧/底部 X关闭按钮功能
 
 <div style="display:inline-block">
-  <img src="./images/custom-dialog.png" style="width:320px;float:left" />
+  <img src="./images/dialog.gif" style="width:320px;float:left" />
   <div style="float:left; margin:160px 0 0 100px">
   联系李凌云加体验权限
   <br />
@@ -68,8 +68,6 @@ Page({
 | ------ | -------- |
 | - | 默认插槽，弹窗内容 |
 
-
-请阅读下一节：[快速上手](/start/quickstart)。
 
 
 <FooterGd/>
