@@ -31,7 +31,7 @@
     <input placeholder="添加备注" bindfocus="onInputFocus" bindinput="onInputFeild" data-name="remarks" maxlength="30" class="remarks" adjust-position="false" />
   </view>
 </view>
-<gd-digit-keyboard value="{{money}}" bind:change="change" bind:done="done" confirmButtonDisabled="{{keyboardSureDisabled}}" />
+<gd-digit-keyboard show="{{show}}" value="{{money}}" bind:change="change" bind:done="done" confirm-button-disabled="{{keyboardSureDisabled}}" />
 ```
 ```css
 .keyboard-input {
@@ -121,6 +121,7 @@ Page({
 
 | 参数      | 说明            | 类型      | 必须 | 可选值                           | 默认值    |
 | --------- | -------------- | -------- | --- | -------------------------------- | -------- |
+| show | 是否显示 | Boolean | ✔ | - | false |
 | value | 值 | String | ✔ | - | '' |
 | maxlength | 最大长度 | Number | - | - | 8 |
 | decimal-length | 小数点位数 | Number | - | - | 2 |
